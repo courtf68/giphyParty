@@ -1,0 +1,19 @@
+.header {
+  text-align: center;
+}
+button {
+  font-size: large;
+  color: rgba(235, 142, 205, 1);
+}
+#query {
+  font-size: medium;
+}
+body {
+  background: rgb(216, 187, 222);
+  background: linear-gradient(
+    0deg,
+    rgba(216, 187, 222, 1) 13%,
+    rgba(194, 152, 203, 1) 44%,
+    rgba(235, 142, 205, 1) 100%
+  );
+}
